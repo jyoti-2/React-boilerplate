@@ -10,7 +10,7 @@ class App extends React.Component{
         <BrowserRouter>
           <div>
             <Route path='/home' exact component={Landing} />
-            </div>
+          </div>
         </BrowserRouter>
       </div>
     );
