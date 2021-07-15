@@ -7,7 +7,6 @@ const Landing = () => {
             <p> I am Landing page</p>
         </div>
     );
-};
-
+}
 
 export default Landing;
